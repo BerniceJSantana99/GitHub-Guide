@@ -1,6 +1,6 @@
 # Welcome To GitHub-Guide
 
-A personal and collaborative reference guide for **Git, GitHub, and software development workflows**. This repository is our own version of a GitHub textbook. It'll include a collection of notes, guides, examples, commands, workflows, and best practices that I've learned along the way. The goal is to document everything we learn about GitHub to this repository for use as a quick refresher and giving collaborators a shared reference to use when working together on other repositories.
+A personal and collaborative reference guide for **Git, GitHub, and software development workflows**. This repository is our own version of a GitHub textbook. It'll include a collection of notes, guides, examples, commands, workflows, and best practices that we've learned along the way. The goal is to document everything we learn about GitHub to this repository for use as a quick refresher and giving collaborators a shared reference to use when working together on other repositories.
   
 ## What's Inside
 
