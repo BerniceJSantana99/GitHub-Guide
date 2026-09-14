@@ -1,4 +1,4 @@
-#Local To Local Connection
+# Local To Local Connection
 
 Local to Local Connection is the same as working inside a directory on your terminal using Git.
 This makes editing, working, updating, and collaborating quicker and documented.
